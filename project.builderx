@@ -1,0 +1,32 @@
+{
+    "artboards": [
+        "/src/screens/SplashScreen.js",
+        "/src/screens/Login.js",
+        "/src/screens/Register.js",
+        "/src/screens/Appointment.js",
+        "/src/screens/Success.js"
+    ],
+    "symbols": [
+        "/src/symbols/button1.js",
+        "/src/symbols/button6.js",
+        "/src/symbols/button3.js",
+        "/src/symbols/button31.js",
+        "/src/symbols/button7.js",
+        "/src/symbols/header5.js",
+        "/src/symbols/carousal.js",
+        "/src/symbols/button71.js"
+    ],
+    "assets": [],
+    "defaultArtboardDirectory": "/src/screens",
+    "defaultSymbolDirectory": "/src/symbols",
+    "defaultAssetDirectory": "/src/assets",
+    "deviceName": "iPhone X",
+    "deviceOrientation": "portrait",
+    "basePath": "/Users/mohammedsaif/Desktop/ios",
+    "tempPath": "/var/folders/8b/2xb9q6ss6b9c6y7l8pk47lfm0000gn/T/BuilderSYP8MoL",
+    "useStylesheet": true,
+    "rulers": {},
+    "missingFonts": [
+        "Roboto"
+    ]
+}
